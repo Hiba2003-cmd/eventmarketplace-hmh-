@@ -1,0 +1,23 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+/* Make the IconField wrapper full width */
+.pw-field .p-icon-field.p-icon-field-right {
+  width: 100%;
+}
+
+/* Make the input stretch inside the IconField */
+.pw-field .p-icon-field.p-icon-field-right > .p-inputtext {
+  width: 100%;
+}

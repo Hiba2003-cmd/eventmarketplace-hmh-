@@ -1,0 +1,12 @@
+.pw-field.p-password.p-icon-field.p-icon-field-right {
+  width: 100%;
+}
+
+.pw-field.p-icon-field-right {
+  display: flex;
+  align-items: center;
+}
+
+.pw-field.p-icon-field-right .p-inputtext {
+  flex: 1;
+}
