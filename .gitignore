@@ -1,0 +1,13 @@
+node_modules/
+dist/
+build/
+target/
+__MACOSX/
+.idea/
+.vscode/
+*.zip
+.env
+*.log
+
+serviceAccountKey.json
+application.properties
